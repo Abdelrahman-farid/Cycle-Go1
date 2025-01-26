@@ -1,4 +1,4 @@
-# Cycling Buddy App
+# Cycling App
 
 ## Overview
 The **Cycling Buddy App** is designed to connect cyclists with others in their area. Users can book cycling paths, organize group rides, and find fellow cyclists along their journey. This app fosters a sense of community among cycling enthusiasts and enhances the cycling experience by making it more social and organized.
